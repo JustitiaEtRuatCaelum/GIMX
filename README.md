@@ -5,6 +5,12 @@ GIMX
 
 GIMX is a free software that allows to use a computer as a hub for your gaming devices. It works on Windows® and GNU/Linux platforms. It is compatible with Playstation® and Xbox® gaming consoles. The connection between the computer and the gaming console is performed using a USB adapter – [get one on the GIMX shop!](https://blog.gimx.fr/product/gimx-adapter/) – or a Bluetooth® dongle (PS3/PS4 only). The capabilities depend on the platform, the connection method, and the gaming platform.
 
+ABOUT THIS FORK
+
+This fork substitutes the VID and PID of a Microsoft Xbox360 controller with the VID and PID of a Rock Candy controller.  This means that the program should now work with a Rock Candy wired Xbox360 controller, but not the official Microsoft controller.
+
+This change has not yet been tested.
+
 Links:
 * [Documentation](https://wiki.gimx.fr)  
 * [Source code](https://gimx.fr/source)  
