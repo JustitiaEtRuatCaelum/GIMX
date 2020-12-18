@@ -8,8 +8,8 @@
 
 #include "defs.h"
 
-#define X360_VENDOR 0x045e
-#define X360_PRODUCT 0x028e
+#define X360_VENDOR 0xeE6f
+#define X360_PRODUCT 0x011f
 
 #ifndef WIN32
 #define X360_NAME "Microsoft X-Box 360 pad"
